@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Anton';
+  src: url('/assets/fonts/Anton-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('/assets/fonts/OpenSans-Italic.ttf') format('truetype');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('/assets/fonts/OpenSans.ttf') format('truetype');
+}
+
+@theme {
+    --font-opensans: "Open Sans", "sans-serif";
+    --font-anton: "Anton", "sans-serif";
+}
+
+body {
+  background: #E0E0E0;
+  background: linear-gradient(#F1F1F1, #E0E0E0 21%) no-repeat fixed;
+}
+
+

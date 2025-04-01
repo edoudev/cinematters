@@ -1,0 +1,123 @@
+[
+    {
+        "image_id": 11,
+        "title": "The Watermelon Woman",
+        "author": "Cheryl Dunye",
+        "year": "1996"
+    },
+    {
+        "image_id": 12,
+        "title": "The Image You Missed",
+        "author": "Joan Cronin",
+        "year": "2013"
+    },
+    {
+        "image_id": 13,
+        "title": "All of Us Strangers",
+        "author": "Andrew Haigh",
+        "year": "2023"
+    },
+    {
+        "image_id": 14,
+        "title": "All the Beauty and the Bloodshed",
+        "author": "Laura Poitras",
+        "year": "2022"
+    },
+    {
+        "image_id": 15,
+        "title": "Carol",
+        "author": "Todd Haynes",
+        "year": "2015"
+    },
+    {
+        "image_id": 16,
+        "title": "Cecil B. Demented",
+        "author": "John Waters",
+        "year": "2000"
+    },
+    {
+        "image_id": 17,
+        "title": "Close",
+        "author": "Lukas Dhont",
+        "year": "2022"
+    },
+    {
+        "image_id": 18,
+        "title": "Desert Hearts",
+        "author": "Donna Deitch",
+        "year": "1985"
+    },
+    {
+        "image_id": 19,
+        "title": "Do the Right Thing",
+        "author": "Spike Lee",
+        "year": "1989"
+    },
+    {
+        "image_id": 20,
+        "title": "Funeral Parade of Roses",
+        "author": "Toshio Matsumoto",
+        "year": "1969"
+    },
+    {
+        "image_id": 21,
+        "title": "Je, Tu, Il, Elle",
+        "author": "Chantal Akerman",
+        "year": "1976"
+    },
+    {
+        "image_id": 22,
+        "title": "Joyland",
+        "author": "Saim Sadiq",
+        "year": "2022"
+
+    },
+    {
+        "image_id": 23,
+        "title": "Kneecap",
+        "author": "Kneecap",
+        "year": "2022"
+    },
+    {
+        "image_id": 24,
+        "title": "Laurence Anyways",
+        "author": "Xavier Dolan",
+        "year": "2012"
+    },
+    {
+        "image_id": 25,
+        "title": "Moonlight",
+        "author": "Barry Jenkins",
+        "year": "2016"
+    },
+    {
+        "image_id": 26,
+        "title": "Mustang",
+        "author": "Deniz Gamze Ergüven",
+        "year": "2015"
+    },
+    {
+        "image_id": 27,
+        "title": "No Other Land",
+        "author": "Marta Popivoda",
+        "year": "2022"
+    },
+    {
+        "image_id": 28,
+        "title": "Paris is Burning",
+        "author": "Jennie Livingston",
+        "year": "1990"
+    },
+    {
+        "image_id": 29,
+        "title": "Portrait of a Lady on Fire",
+        "author": "Céline Sciamma",
+        "year": "2019"
+    },
+    {
+        "image_id": 30,
+        "title": "The Rocky Horror Picture Show",
+        "author": "Jim Sharman",
+        "year": "1975"
+    }
+]
