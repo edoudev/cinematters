@@ -37,7 +37,7 @@ import { RouterLink, RouterView } from "vue-router";
         </nav>
       </div>
     </header>
-    <div class="py-12 px-4 flex-1">
+    <div class="py-6 px-4 flex-1">
       <RouterView />
     </div>
     <footer class="mt-2 px-4">
