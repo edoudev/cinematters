@@ -53,12 +53,14 @@ onMounted(() => {
           />
         </div>
       </div>
-      <figcaption class="text-center">
+      <figcaption class="text-center leading-none">
         <b class="text-lg font-extrabold">{{ frames[frameIndex].title }}</b>
         ({{ frames[frameIndex].year }})
-        <span class="text-sm">
-          by
-          <b class="font-semibold">{{ frames[frameIndex].author }}</b>
+        <span class="text-sm whitespace-nowrap">
+          <span
+            >by
+            <b class="font-semibold">{{ frames[frameIndex].author }}</b></span
+          >
         </span>
       </figcaption>
     </figure>
