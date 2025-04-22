@@ -69,7 +69,7 @@ const selectedDirector = ref(0);
             :src="'/assets/' + content.image.src"
             containerClass="object-cover w-96"
           />
-          <span class="text-lg text-center">
+          <span class="text-md text-center">
             {{ content.caption }}
           </span>
         </div>
