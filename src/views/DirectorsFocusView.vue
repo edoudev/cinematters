@@ -26,7 +26,7 @@ const selectedDirector = ref(0);
 
 <template>
   <div class="flex justify-center items-center flex-col">
-    <ul class="flex gap-8">
+    <ul class="flex flex-wrap justify-center gap-8">
       <li
         v-for="(director, index) in directors"
         @click="selectedDirector = index"
